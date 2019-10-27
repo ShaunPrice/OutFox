@@ -1,4 +1,14 @@
 # OutFox
+This is a volunteer project to help save the endangered Bell turtle species. I'm assisting the "Turtles Forever" project team in developing a fox (and dogs) detection and scaring system that uses Artificial Intelligence (AI) to identify the preditors and ward them off. The main preditor causing the damage has been foxes that are not native to Australia and are destroying the turtle nests.
+
+This is the working prototype (PCB not validated) for the solution. It uses MobileNet AI model as it already detects many species of foxes, dogs and wolves.
+
+*Any assistance in this project is welcome!!!*
+
+## Articals About the Project
+https://www.abc.net.au/news/2018-03-07/turtle-hatchlings-offer-hope-endangered-bells-turtle/9522182
+https://northerntablelands.lls.nsw.gov.au/resource-hub/media-releases/2016/work-begins-on-bells-turtle-recovery-project
+
 Fox and other nuisance animal detection and frightening device. Uses cameras and AI to detect and identify only the nuisance animals.
 ![OutFox Control Board](/images/OutFox.png)
 
@@ -19,7 +29,6 @@ https://maixpy.sipeed.com/en/
 ## SiSpeed Downloads
 http://dl.sipeed.com/MAIX/
 https://github.com/sipeed
-
 
 ## Uploading files and firmware
 Use uPyLoader for uploading files and executing script
