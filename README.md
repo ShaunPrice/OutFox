@@ -5,7 +5,7 @@ This is the working prototype (PCB not validated) for the solution. It uses Mobi
 
 *Any assistance in this project is welcome!!!*
 
-## Articals About the Project
+## Articles About the Project
 https://www.abc.net.au/news/2018-03-07/turtle-hatchlings-offer-hope-endangered-bells-turtle/9522182
 https://northerntablelands.lls.nsw.gov.au/resource-hub/media-releases/2016/work-begins-on-bells-turtle-recovery-project
 
@@ -19,7 +19,7 @@ Fox and other nuisance animal detection and frightening device. Uses cameras and
 The core of the system is the Sipeed BiT board with camera available from Seeed. 
 https://www.seeedstudio.com/Sipeed-MAix-BiT-for-RISC-V-AI-IoT-p-2872.html
 
-This board uses a Kendryte K210 Neural Accellerator for at teh edge AI. The board consumes less than 1 Watt of power.
+This board uses a Kendryte K210 Neural Accellerator for at the edge AI. The board consumes less than 1 Watt of power.
 
 If using this board and camera for night vision using the IR LEDs you'll need to unscrew the lense from the camera and remove the small square IR filter from the back of the lense.
 
